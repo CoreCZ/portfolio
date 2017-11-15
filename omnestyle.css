@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import 'bootstrap.min.css';
+body{
+    background-image: url(img/pattern.svg)
+}
+.nadpis {
+	font-size: 5rem;
+}
+.podnadpis {
+	font-size: 2.5rem;
+}
+.odsazeni {
+	position: relative;
+	float: left;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.logo{
+	width: 100%;
+}
+.odsad{
+    padding-top: 40px;
+}
